@@ -1,16 +1,18 @@
-# Login
+# Learning Flutter: Creating a login form :sunglasses:
 
-A new Flutter project.
+- Learning basic concepts flutter and dart
 
-## Getting Started
+## Give a Star! :star:
 
-This project is a starting point for a Flutter application.
+If you liked the project, please give a star ;)
 
-A few resources to get you started if this is your first Flutter project:
+## You need some of the fallowing tools :exclamation:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-  Visual Studio Code
+-  Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description 📚
+
+Flutter is an open source user interface development kit (UI toolkit), created by Google, which makes it possible to create natively compiled applications.
+
+[Redirect to Flutter Official Documentation](https://flutter.dev/docs)
